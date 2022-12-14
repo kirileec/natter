@@ -9,4 +9,3 @@ darwin:
 
 
 all: linux windows darwin
-	echo "build linux windows darwin"
